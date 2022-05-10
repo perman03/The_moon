@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "three": "^0.140.1",
+    "three-full": "^28.0.2"
+  }
+}
